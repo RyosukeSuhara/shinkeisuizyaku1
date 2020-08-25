@@ -1,0 +1,3 @@
+﻿  sinnkeisuizyaku.cpp
+C:\Users\human\Documents\ゲームプログラミング\sinnkeisuizyaku\sinnkeisuizyaku\sinnkeisuizyaku.cpp(7,15): warning C4244: '引数': 'time_t' から 'unsigned int' への変換です。データが失われる可能性があります。
+  sinnkeisuizyaku.vcxproj -> C:\Users\human\Documents\ゲームプログラミング\sinnkeisuizyaku\Debug\sinnkeisuizyaku.exe
